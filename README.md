@@ -32,7 +32,7 @@
 * User can search any city and get the detailed weather information. 
 * User can get current location's weather by just tapping "location" button at the bottom of the screen.
 ### Screenshots
-<img src="https://user-images.githubusercontent.com/53441647/100519590-4c716c80-31dc-11eb-983c-6ff7a8f06c83.png" width="307.05" height="500"><img src="https://user-images.githubusercontent.com/53441647/100519593-4e3b3000-31dc-11eb-9432-b6b55aeeeb48.png" width="307.05" height="500"><img src="https://user-images.githubusercontent.com/53441647/100519594-4ed3c680-31dc-11eb-8bb6-e5d2d4354812.png" width="307.05" height="500">
+<img src="https://user-images.githubusercontent.com/53441647/100519590-4c716c80-31dc-11eb-983c-6ff7a8f06c83.png" width="306.05" height="500"><img src="https://user-images.githubusercontent.com/53441647/100519593-4e3b3000-31dc-11eb-9432-b6b55aeeeb48.png" width="306.05" height="500"><img src="https://user-images.githubusercontent.com/53441647/100519594-4ed3c680-31dc-11eb-8bb6-e5d2d4354812.png" width="306.05" height="500">
 ### Technologies:
 * 100% Programmatic UI, AutoLayout, RxSwift, RxCocoa, CocoaPods, API Networking with URLSession, Core Location
 ### See the video: [YouTube Link](https://youtu.be/lFCWp15kG8A)
