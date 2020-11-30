@@ -1,11 +1,15 @@
 # IOS-Projects-Portfolio
 
 ## List of projects
-* [To-Do List](#To-Do-List)
-* [RxSwift-Weather-App](#RxSwift-Weather-App)
-* [Pomodoro Timer](#Pomodoro-Timer)
-* [My Messenger](#My-Messenger)
-* [RxSwift-ToDo-List](#RxSwift-ToDo-List)
+<img src="https://user-images.githubusercontent.com/53441647/99650833-399ebf80-2a99-11eb-8d91-d409dc2726c3.png" width="30" height="30"> [To-Do List](#To-Do-List)
+
+<img src="https://user-images.githubusercontent.com/53441647/100519969-98bdac00-31de-11eb-9b6e-5ee0632846a4.png" width="30" height="30"> [RxSwift-Weather-App](#RxSwift-Weather-App)
+
+<img src="https://user-images.githubusercontent.com/53441647/99633557-714e3d00-2a82-11eb-968c-39e776f547fc.png" width="30" height="30"> [Pomodoro Timer](#Pomodoro-Timer)
+
+<img src="https://user-images.githubusercontent.com/53441647/99644280-16701200-2a91-11eb-8a2b-b5c6a741d323.png" width="30" height="30"> [My Messenger](#My-Messenger)
+
+<img src="https://user-images.githubusercontent.com/53441647/100001962-3f810180-2e07-11eb-880f-afcabf03ca8a.png" width="30" height="30"> [RxSwift-ToDo-List](#RxSwift-ToDo-List)
 
 # To-Do-List
 ### Short Description
