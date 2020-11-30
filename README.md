@@ -13,7 +13,7 @@
 ### Screenshots
 ### Technologies: 
 * 100% Programmatic UI, AutoLayout, Realm Swift, MVVM pattern, CocoaPods, Diffable Data Source
-### See the video: 
+### See the video: [YouTube Link](https://youtu.be/9k8vox8HIdo)
 ### Github Repository: [To Do List](https://github.com/mukatayev1/ToDo-List-App)
 
 # RxSwift-Weather-App
@@ -22,7 +22,7 @@
 ### Screenshots
 ### Technologies:
 * 100% Programmatic UI, AutoLayout, RxSwift, RxCocoa, CocoaPods, API Networking with URLSession, Core Location
-### See the video: 
+### See the video: [YouTube Link](https://youtu.be/lFCWp15kG8A)
 ### Github Repository: [RxSwift Weather App](https://github.com/mukatayev1/RxSwift-Weather-App)
 
 # Pomodoro-Timer
@@ -33,7 +33,7 @@ Set the timer for 25 minutes -> Work on one task until timer finishes -> Take a 
 ### Screenshots
 ### Technologies:
 * 100% Programmatic UI, UIKit, Autolayout, CABasicAnimation, MVC Pattern, Timer class, Custom Dark Mode
-### See the video: 
+### See the video: [YouTube Link](https://youtu.be/InE5IUaO8iQ)
 ### Github Repository: [Pomodoro Timer](https://github.com/mukatayev1/Pomodoro-Timer)
 
 # My-Messenger
@@ -41,7 +41,6 @@ Set the timer for 25 minutes -> Work on one task until timer finishes -> Take a 
 ### Screenshots
 ### Technologies:
 * 100% Programmatic UI, UIKit, AutoLayout, Firestore(Authentication, Cloud Firestore, Database), JGProgressHUD, MVVM pattern, CocoaPods
-### See the video: 
 ### Github Repository: [My Messenger](https://github.com/mukatayev1/MyMessenger)
 
 # RxSwift-ToDo-List
@@ -49,6 +48,6 @@ Set the timer for 25 minutes -> Work on one task until timer finishes -> Take a 
 ### Screenshots
 ### Technologies:
 * 100% Programmatic UI, AutoLayout, RxSwift, RxCocoa, CocoaPods
-### See the video: 
+### See the video: [YouTube Link](https://www.youtube.com/watch?v=xnE3Cx9326E)
 ### Github Repository: [RxSwift ToDo List](https://github.com/mukatayev1/RxSwift-ToDo-List)
 
