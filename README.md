@@ -57,7 +57,7 @@ Set the timer for 25 minutes -> Work on one task until timer finishes -> Take a 
 #### How it works:
 The user makes login/register process -> Clicks plus button to choose the user to message -> Starts messaging
 ### Screenshots
-<img src="https://user-images.githubusercontent.com/53441647/99644296-196b0280-2a91-11eb-9ffe-a984f9c43269.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99644300-1a9c2f80-2a91-11eb-87b5-b49cc9bbef58.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99644289-1839d580-2a91-11eb-838d-9d48e2ea7550.png" width="249.14" height="500">  
+<img src="https://user-images.githubusercontent.com/53441647/99644296-196b0280-2a91-11eb-9ffe-a984f9c43269.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99644300-1a9c2f80-2a91-11eb-87b5-b49cc9bbef58.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99644289-1839d580-2a91-11eb-838d-9d48e2ea7550.png" width="249.14" height="500">
 <img src="https://user-images.githubusercontent.com/53441647/99644283-1708a880-2a91-11eb-894c-cabcf6f8e177.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/100619759-ef52f380-3360-11eb-84b0-9a94ecd7eea9.png" width="249.14" height="500">
 ### Technologies:
 * 100% Programmatic UI, UIKit, AutoLayout, Firestore(Authentication, Cloud Firestore, Database), JGProgressHUD, MVVM pattern, CocoaPods
