@@ -9,8 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/53441647/99644280-16701200-2a91-11eb-8a2b-b5c6a741d323.png" width="30" height="30"> [My Messenger](#My-Messenger)
 
-<img src="https://user-images.githubusercontent.com/53441647/100001962-3f810180-2e07-11eb-880f-afcabf03ca8a.png" width="30" height="30"> [RxSwift-ToDo-List](#RxSwift-ToDo-List)
-
 # To-Do-List
 ### Short Description
 * A simple and visually appealing To-Do List app created with Realm database. User can add new tasks by pressing plus button at the bottom. 
@@ -63,18 +61,4 @@ The user makes login/register process -> Clicks plus button to choose the user t
 * 100% Programmatic UI, UIKit, AutoLayout, Firestore(Authentication, Cloud Firestore, Storage), JGProgressHUD, MVVM pattern, CocoaPods
 ### See the video: [YouTube Link](https://youtu.be/PZvnqv70w5s)
 ### Github Repository: [My Messenger](https://github.com/mukatayev1/MyMessenger)
-
-# RxSwift-ToDo-List
-### Short Description
-* A To-Do List app created using RxSwift Framework and UIKit
-#### How it works:
-* Add new tasks by pressing button at the bottom right
-* Choose the priority of a task: High, Medium or Low
-* Filter the tasks list by the priority
-### Screenshots
-<img src="https://user-images.githubusercontent.com/53441647/100003937-20d03a00-2e0a-11eb-9550-b31104181dd6.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/100003947-23329400-2e0a-11eb-971a-6d834bd81bdb.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/100003956-2594ee00-2e0a-11eb-85f6-099d68fc8096.png" width="249.14" height="500">
-### Technologies:
-* 100% Programmatic UI, AutoLayout, RxSwift, RxCocoa, CocoaPods
-### See the video: [YouTube Link](https://www.youtube.com/watch?v=xnE3Cx9326E)
-### Github Repository: [RxSwift ToDo List](https://github.com/mukatayev1/RxSwift-ToDo-List)
 
