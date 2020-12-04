@@ -18,7 +18,7 @@
 ### Screenshots
 <img src="https://user-images.githubusercontent.com/53441647/99653829-df9ff900-2a9c-11eb-963f-834594083479.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99653831-e169bc80-2a9c-11eb-98e2-247a1d85f5ab.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99653809-dc0c7200-2a9c-11eb-939b-2430821a10c9.png" width="249.14" height="500"> 
 ### Technologies: 
-* 100% Programmatic UI, AutoLayout, Realm Swift, MVVM pattern, CocoaPods, Diffable Data Source
+* 100% Programmatic UI, AutoLayout, Realm Swift, MVVM pattern, CocoaPods, Diffable Data Source, Git
 ### See the video: [YouTube Link](https://youtu.be/9k8vox8HIdo)
 ### Github Repository: [To Do List](https://github.com/mukatayev1/ToDo-List-App)
 
@@ -32,7 +32,7 @@
 ### Screenshots
 <img src="https://user-images.githubusercontent.com/53441647/100519590-4c716c80-31dc-11eb-983c-6ff7a8f06c83.png" width="306.05" height="500"><img src="https://user-images.githubusercontent.com/53441647/100519593-4e3b3000-31dc-11eb-9432-b6b55aeeeb48.png" width="306.05" height="500"><img src="https://user-images.githubusercontent.com/53441647/100519594-4ed3c680-31dc-11eb-8bb6-e5d2d4354812.png" width="306.05" height="500">
 ### Technologies:
-* 100% Programmatic UI, AutoLayout, RxSwift, RxCocoa, CocoaPods, API Networking with URLSession, Core Location
+* 100% Programmatic UI, AutoLayout, RxSwift, RxCocoa, CocoaPods, API Networking with URLSession, Core Location, Git
 ### See the video: [YouTube Link](https://youtu.be/lFCWp15kG8A)
 ### Github Repository: [RxSwift Weather App](https://github.com/mukatayev1/RxSwift-Weather-App)
 
@@ -44,7 +44,7 @@ Set the timer for 25 minutes -> Work on one task until timer finishes -> Take a 
 ### Screenshots
 <img src="https://user-images.githubusercontent.com/53441647/99635290-1d912300-2a85-11eb-8609-97acc9e9eaec.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99636899-6fd34380-2a87-11eb-8346-3729f86806e2.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99635302-23870400-2a85-11eb-817b-4e0ce859d3f4.png" width="249.14" height="500">
 ### Technologies:
-* 100% Programmatic UI, UIKit, Autolayout, CABasicAnimation, MVC Pattern, Timer class, Custom Dark Mode
+* 100% Programmatic UI, UIKit, Autolayout, CABasicAnimation, MVC Pattern, Timer class, Custom Dark Mode, Git
 ### See the video: [YouTube Link](https://youtu.be/InE5IUaO8iQ)
 ### Github Repository: [Pomodoro Timer](https://github.com/mukatayev1/Pomodoro-Timer)
 
@@ -58,7 +58,7 @@ The user makes login/register process -> Clicks plus button to choose the user t
 <img src="https://user-images.githubusercontent.com/53441647/99644296-196b0280-2a91-11eb-9ffe-a984f9c43269.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99644300-1a9c2f80-2a91-11eb-87b5-b49cc9bbef58.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/99644289-1839d580-2a91-11eb-838d-9d48e2ea7550.png" width="249.14" height="500">
 <img src="https://user-images.githubusercontent.com/53441647/99644283-1708a880-2a91-11eb-894c-cabcf6f8e177.png" width="249.14" height="500">  <img src="https://user-images.githubusercontent.com/53441647/100619759-ef52f380-3360-11eb-84b0-9a94ecd7eea9.png" width="249.14" height="500">
 ### Technologies:
-* 100% Programmatic UI, UIKit, AutoLayout, Firestore(Authentication, Cloud Firestore, Storage), JGProgressHUD, MVVM pattern, CocoaPods
+* 100% Programmatic UI, UIKit, AutoLayout, Firebase(Authentication, Cloud Firestore, Storage), JGProgressHUD, MVVM pattern, CocoaPods, Git
 ### See the video: [YouTube Link](https://youtu.be/PZvnqv70w5s)
 ### Github Repository: [My Messenger](https://github.com/mukatayev1/MyMessenger)
 
