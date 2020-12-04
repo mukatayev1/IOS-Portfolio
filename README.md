@@ -26,7 +26,7 @@
 
 # RxSwift-Weather-App
 ### Short Description
-* A Weather List app created using RxSwift and API. 
+* A Weather List app created using RxSwift and https://openweathermap.org/ API. 
 #### How it works
 * User can get current weather of his/her current location. 
 * User can search any city and get the detailed weather information. 
