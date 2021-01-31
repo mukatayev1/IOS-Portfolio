@@ -1,6 +1,8 @@
 # IOS-Projects-Portfolio
 
 ## List of projects
+<img src="https://user-images.githubusercontent.com/53441647/106382246-a91e1d00-6401-11eb-95bd-732a0331c520.png" width="30" height="30"> [COVID-19-Tracker](#COVID-19-Tracker)
+
 <img src="https://user-images.githubusercontent.com/53441647/99650833-399ebf80-2a99-11eb-8d91-d409dc2726c3.png" width="30" height="30"> [To-Do List](#To-Do-List)
 
 <img src="https://user-images.githubusercontent.com/53441647/100519969-98bdac00-31de-11eb-9b6e-5ee0632846a4.png" width="30" height="30"> [RxSwift-Weather-App](#RxSwift-Weather-App)
@@ -8,6 +10,18 @@
 <img src="https://user-images.githubusercontent.com/53441647/99633557-714e3d00-2a82-11eb-968c-39e776f547fc.png" width="30" height="30"> [Pomodoro Timer](#Pomodoro-Timer)
 
 <img src="https://user-images.githubusercontent.com/53441647/99644280-16701200-2a91-11eb-8a2b-b5c6a741d323.png" width="30" height="30"> [My Messenger](#My-Messenger)
+
+
+# COVID-19-Tracker-App
+### Short Description
+* App that monitors latest statistic of the COVID-19 spread around the world and any country of the world.
+
+### Screenshots
+<img src="https://user-images.githubusercontent.com/53441647/106382249-ab807700-6401-11eb-820b-e379577df698.png" width="307.05" height="500">  <img src="https://user-images.githubusercontent.com/53441647/106382250-ade2d100-6401-11eb-9b85-36270499a5a0.png" width="307.05" height="500">  <img src="https://user-images.githubusercontent.com/53441647/106382252-ae7b6780-6401-11eb-8147-ee9d2acc2784.png" width="307.05" height="500">
+### Technologies: 
+* MVC, UIKit, Alamofire, SnapKit, TableView and Custom TableViewCell, Tab Bar Controller and Navigation Controller, Charts, Search Controller, 100% Programmatic UI Git
+### See the video: [YouTube Link](https://youtu.be/igq8UU6Ekdo)
+### Github Repository: [COVID-19-Tracker](https://github.com/mukatayev1/COVID-19-Tracker)
 
 # To-Do-List
 ### Short Description
