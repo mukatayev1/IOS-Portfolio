@@ -1,7 +1,7 @@
 # IOS-Projects-Portfolio
 
 ## List of projects
-<img src="https://user-images.githubusercontent.com/53441647/106382246-a91e1d00-6401-11eb-95bd-732a0331c520.png" width="30" height="30"> [COVID-19-Tracker](#COVID-19-Tracker)
+<img src="https://user-images.githubusercontent.com/53441647/106382246-a91e1d00-6401-11eb-95bd-732a0331c520.png" width="30" height="30"> [COVID-19-Tracker-App](#COVID-19-Tracker-App)
 
 <img src="https://user-images.githubusercontent.com/53441647/99650833-399ebf80-2a99-11eb-8d91-d409dc2726c3.png" width="30" height="30"> [To-Do List](#To-Do-List)
 
